@@ -1,0 +1,6 @@
+{
+  "name": "Divine Suites Specification",
+  "description": "Interactive system architecture and product specification for Divine Suites, a luxury property management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
